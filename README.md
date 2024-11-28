@@ -20,5 +20,5 @@ On app load, check if there's existing state in localStorage and rehydrate the R
 Contributing
 Feel free to fork this repository and create pull requests to improve the functionality, fix bugs, or enhance the UI. If you have suggestions or questions, open an issue!
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
